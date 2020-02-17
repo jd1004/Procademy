@@ -1,0 +1,9 @@
+{
+	// Å×½ºÆ® //
+	m_iVersion = 100
+	m_iServerID = 2
+	m_chServerBindIP = "127.0.01.1"
+	m_iServerBindPort = 3
+	m_iWorkerThread = 4
+	m_iMaxUser = 5
+}
